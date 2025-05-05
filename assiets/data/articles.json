@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Grapes",
+        "description": "Grapes are a type of fruit that grow in clusters on vines. They can be eaten fresh or used to make wine, raisins, and other products. Grapes are rich in vitamins and antioxidants, making them a healthy snack choice. They come in various colors, including red, green, and black, each with its own unique flavor profile. Grapes are typically harvested in late summer to early fall, depending on the variety and climate. They are often enjoyed fresh, but can also be dried to make raisins or fermented to produce wine.",
+        "image": "assiets/images/fruite-item-5.jpg",
+        "price": "$4.99"
+    },
+    {
+        "title": "Raspberries",
+        "description": "Raspberries are a type of fruit that belong to the rose family. They are known for their sweet and tart flavor, vibrant red color, and delicate texture. Raspberries are rich in vitamins, minerals, and antioxidants, making them a healthy addition to any diet. They can be eaten fresh, added to smoothies, or used in desserts and jams. Raspberries are typically harvested in the summer months and are often enjoyed as a snack or used in various culinary applications.",
+        "image": "assiets/images/fruite-item-2.jpg",
+        "price": "$6.99"
+    },
+    {
+        "title": "Apricots",
+        "description": "Apricots are a type of stone fruit that belong to the Prunus family, which also includes cherries, peaches, and plums. They are known for their sweet and slightly tart flavor, vibrant orange color, and smooth skin. Apricots are rich in vitamins A and C, as well as dietary fiber, making them a healthy snack choice. They can be eaten fresh, dried, or used in various culinary applications such as jams, desserts, and salads. Apricots are typically harvested in late spring to early summer.",
+        "image": "assiets/images/fruite-item-4.jpg",
+        "price": "$6.99"
+    },
+    {
+        "title": "Banana",
+        "description": "Bananas are a type of tropical fruit that are known for their sweet flavor and soft, creamy texture. They are rich in potassium, vitamin C, and dietary fiber, making them a healthy snack choice. Bananas are typically yellow when ripe, but can also be green or brown depending on their ripeness. They can be eaten fresh, added to smoothies, or used in baking. Bananas are available year-round and are one of the most popular fruits worldwide.",
+        "image": "assiets/images/fruite-item-3.jpg",
+        "price": "$6.99"
+    },
+    {
+        "title": "Oranges",
+        "description": "Oranges are a type of citrus fruit that are known for their sweet and tangy flavor. They are rich in vitamin C, fiber, and antioxidants, making them a healthy snack choice. Oranges are typically orange in color, but can also be green or yellow depending on the variety. They can be eaten fresh, juiced, or used in various culinary applications such as salads and desserts. Oranges are available year-round and are one of the most popular fruits worldwide.",
+        "image": "assiets/images/featur-2.jpg",
+        "price": "$6.99"
+    },
+    {
+        "title": "apple",
+        "description": "Apples are a type of fruit that belong to the Rosaceae family. They are known for their sweet and crisp texture, and come in a variety of colors including red, green, and yellow. Apples are rich in dietary fiber, vitamin C, and various antioxidants, making them a healthy snack choice. They can be eaten fresh, baked, or used in various culinary applications such as pies, salads, and sauces. Apples are typically harvested in the fall and are available year-round.",
+        "image": "assiets/images/featur-1.jpg",
+        "price": "$6.99"
+    }
+]

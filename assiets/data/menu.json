@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Home",
+        "icon": "home",
+        "path": "/home"
+    },
+    {
+        "id": 2,
+        "name": "Shop",
+        "icon": "shopping",
+        "path": "/shop"
+    },
+    {
+        "id": 3,
+        "name": "Pages",
+        "icon": "book",
+        "path": "/pages",
+        "subMenu": [{
+            "id": 1,
+            "name": "About Us",
+            "icon": "info",
+            "path": "/about"
+        },
+        {
+            "id": 2,
+            "name": "Blog",
+            "icon": "blog",
+            "path": "/blog"
+        },
+        {
+            "id": 3,
+            "name": "ChackOut",
+            "icon": "phone",
+            "path": "/chackout"
+        },
+        {
+            "id": 3,
+            "name": "Card",
+            "icon": "shopping-cart",
+            "path": "/shop"
+        }]
+    },
+    {
+        "id": 3,
+        "name": "Contact",
+        "icon": "contact",
+        "path": "/contact"
+    }
+]
